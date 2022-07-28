@@ -1,0 +1,35 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>levels/1-1.png</file>
+    <file>sprites/wario.png</file>
+    <file>sprites/hud.png</file>
+    <file>sprites/stage_tiles.png</file>
+    
+    <file>sprites/blu.png</file>
+    <file>sprites/worm.png</file>
+    <file>sprites/spider.png</file>
+    <file>sprites/frog.png</file>
+    <file>sprites/torch.png</file>
+    <file>icons/wario.ico</file>    
+    
+    <file>sounds/ost_menu.wav</file>
+    <file>sounds/ost_worm.wav</file>
+    <file>sounds/ost_main.wav</file>
+    <file>sounds/ost_fire.wav</file>
+    <file>sounds/ost_win.wav</file>
+    <file>sounds/break.wav</file>
+    <file>sounds/bump.wav</file>
+    <file>sounds/climb.wav</file>
+    <file>sounds/crouch.wav</file>
+    <file>sounds/get_coin.wav</file>
+    <file>sounds/hit.wav</file>
+    <file>sounds/jump.wav</file>
+    <file>sounds/kill_enemy.wav</file>
+    <file>sounds/roll.wav</file>
+    <file>sounds/run.wav</file>
+    <file>sounds/sliding.wav</file>
+    <file>sounds/thunder_1.wav</file>
+    <file>sounds/thunder_2.wav</file>
+    <file>sounds/walk.wav</file>   
+</qresource>
+</RCC>
